@@ -111,11 +111,12 @@ describe('Example Test', () => {
     cy.get('.action-email')
       .type('fake@email.com')
       .should('have.value', 'fake@email.com')
-  })
-})
+          })
+        })
 
 ## Screenshot Example
 Test Runner UI:
 
 ![Test Runner UI](https://prnt.sc/y0lw9eBscdU6)
+
 
