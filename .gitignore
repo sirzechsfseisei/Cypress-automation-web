@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+cypress-visual-report/
+
+# Build & logs
+dist/
+build/
+*.log
+
+# Cypress artifacts
+cypress/screenshots/
+cypress/reports/
