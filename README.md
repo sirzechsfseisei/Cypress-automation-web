@@ -118,7 +118,9 @@ describe('Example Test', () => {
 ## Screenshot Example
 Test Runner UI:
 
+![Test Runner UI](https://github.com/sirzechsfseisei/Cypress-automation-web/blob/main/cypress/fixtures/path/Screenshot_10.png)
 ![Test Runner UI](https://prnt.sc/y0lw9eBscdU6)
+
 
 
 
